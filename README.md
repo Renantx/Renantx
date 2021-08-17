@@ -35,5 +35,5 @@
   
  ##
 
- 
+![Snake animation](https://github.com/Renantx/Renantx/blob/output/github-contribution-grid-snake.svg) 
 </div>  
