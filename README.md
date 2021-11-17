@@ -1,5 +1,5 @@
 ## Olá, eu sou o Renantx 👋
-- 🔭 Trabalho atualmente com desenvolvimento de aplicações em Oracle Application Express (APEX)
+- 🔭 Trabalho atualmente com desenvolvimento front-end com Angular.
 - 🌱 Estudando .NET | C# | Javascript 
 - 📫 Contate-me no e-mail: renan.tkdunb@gmail.com
 - 📖 Meu portifólio: http://rstxportfolio.com/
